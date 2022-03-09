@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&family=Mada&family=Reem+Kufi&display=swap');
+.text-color{ 
+    color: blue;
+    background-color: bisque;
+}
+#color{
+    color: blueviolet;
+}
+
+h1 {
+    font-family: 'Lalezar', cursive;
+font-family: 'Mada', sans-serif;
+font-family: 'Reem Kufi', sans-serif;
+}
+p {
+    font-weight: 400;
+}
